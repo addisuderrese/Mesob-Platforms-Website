@@ -17,6 +17,8 @@
     <script type="text/javascript" src="js/hovereffects.js"></script>
     <script type="text/javascript" defer src="js/animations.js"></script>
     <script type="text/javascript" defer src="js/popup.js"></script>
+    <script type="text/javascript" defer src="js/chatbot.js"></script>
+
 </head>
 
 <body>
@@ -26,11 +28,27 @@
         <p id="index-email-time">Please Check Your Email Frequently.</p>
     </div>
 
-    <div class="chat-bot-icon">
-        
+    <div class="chat-bot-icon" onclick="chatBot()">
+        <img src="imgs/chat.png">
     </div>
     <div class="chat-bot-container">
-
+        <div class="chat-bot-header">
+            <img src="imgs/chat.png">
+            <h1>ChatBot</h1>
+        </div>
+        <div class="chat-bot-chat-section">
+            <div class="bot-message">Hello, What can i help you with?</div>
+            <!-- <div class="bot-message">What is Mesob Platforms?</div> -->
+        </div>
+        <div class="chat-bot-faq">
+            <div class="faq" onclick="Q1(this.innerHTML)">What is Mesob Platforms?</div>
+            <div class="faq" onclick="Q2(this.innerHTML)">How can I join?</div>
+            <div class="faq" onclick="Q3(this.innerHTML)">What are your services?</div>
+            <div class="faq" onclick="Q4(this.innerHTML)">Membership Req</div>
+            <div class="faq" onclick="Q5(this.innerHTML)">About</div>
+            <div class="faq" onclick="Q6(this.innerHTML)">Members</div>
+            <div class="faq" onclick="Q7(this.innerHTML)">Terms</div>
+        </div>
     </div>
 
     <div class="download-page" id="download-page">
@@ -46,7 +64,7 @@
         <div class="download-page-button-container">
             <button>DOWNLOAD APK</button>
         </div>
-        <p>Version - 2.0</p>
+        <p>Version - 2.1</p>
         <p>Size - 3.4MB</p>
 
     </div>
@@ -56,7 +74,7 @@
             <h1>Mesob Platforms</h1>
         </div>
         <div id="top-bar-options">
-            <div class="drop-down">Download
+            <div class="drop-down-download">Download
                 <img src="imgs/down-arrow (1).png">
             </div>
             <div class="drop-down">Platforms
@@ -69,10 +87,13 @@
                 <img src="imgs/down-arrow (1).png">
             </div>
             <a href="pages/registration.html">
-            <div class="drop-down">Join Now
-            </div>
-        </a>
+                <div class="drop-down">Join Now
+                </div>
+            </a>
         </div>
+    </div>
+    <div class="download-menu">
+
     </div>
     <div class="start-screen" id="start-screen">
 
