@@ -18,4 +18,7 @@ People who participated in the building process will be attributed in the releas
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=addisuderrese&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=naolmideksa&show_icons=true)
+
+
 
