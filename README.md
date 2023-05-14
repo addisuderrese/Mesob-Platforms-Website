@@ -20,5 +20,8 @@ People who participated in the building process will be attributed in the releas
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=naolmideksa&show_icons=true)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/addisuderrese/Mesob-Platforms-Website)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kaly3&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soretyz&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kenna_hope&show_icons=true)
