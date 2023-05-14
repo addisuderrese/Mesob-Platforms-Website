@@ -24,4 +24,4 @@ People who participated in the building process will be attributed in the releas
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soretyz&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kenna_hope&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennahope&show_icons=true)
