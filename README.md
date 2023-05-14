@@ -5,6 +5,13 @@ Anyone interested from the public can participate in the building process by cre
 <hr>
 <h4><i>For more information let us now at <a  mailto="mesobplatforms@hotmail.com">mesobplatforms@hotmail.com</a></i></h4>
 
+<hr>
+
+<h3>Contributors</h3>
+![GitHub Contributors Image](https://contrib.rocks/image?repo=addisuderrese/Mesob-Platforms-Website)
+
+
+<h3>Contributors Stats</h3>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=addisuderrese&show_icons=true)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=addisuderrese/Mesob-Platforms-Website)
+
